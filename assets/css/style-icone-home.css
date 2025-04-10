@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+/* Reset */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Variáveis */
+:root {
+    --preto: #000000;  
+}
+
+/* Versão desktop */
+.tela-celular {
+    height: 360px;
+    width: 204px;
+}

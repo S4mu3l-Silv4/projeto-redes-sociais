@@ -22,7 +22,7 @@ body {
     background-size: cover;
     height: 100vh;
     overflow-x: hidden;
-    transition: all 0.4s ease;
+    transition: 0.4s ease;
     width: 100vw;
 }
 
@@ -38,7 +38,7 @@ section#celular {
     position: absolute;
     top: 50%;
     transform: translate(-50%, -50%);
-    transition: all 0.4s ease;
+    transition: 0.4s ease;
     width: 239px;
 }
 
@@ -47,13 +47,13 @@ iframe#tela-celular {
     left: 17px;
     position: relative;
     top: 62px;
-    transition: all 0.4s ease;
+    transition: 0.4s ease;
     width: 204px;
 }
 
 section#redes-sociais {
     text-align: left;
-    transition: all 0.4s ease;
+    transition: 0.4s ease;
 }
 
 li {
@@ -66,13 +66,13 @@ section#redes-sociais img {
     box-sizing: border-box;
     height: 50px;
     margin: 20px;
-    transition: all 0.2s ease;
+    transition: 0.2s ease;
 }
 
 section#redes-sociais img:hover {
     border: 2px solid var(--branco);
     transform: translate(2px, 2px);
-    transition: all 0.2s ease;
+    transition: 0.2s ease;
 }
 
 footer {
@@ -83,16 +83,16 @@ footer {
     letter-spacing: 0.8px;
     padding: 4px;
     text-align: center;
-    transition: all 0.4s ease;
+    transition: 0.4s ease;
 }
 
 footer a {
     color: var(--cinza);
     text-decoration: none;
-    transition: all 1.5s ease;
+    transition: 1.5s ease;
 }
 
 footer a:hover {
     color: var(--preto);
-    transition: all 1.5s ease;
+    transition: 1.5s ease;
 }

@@ -28,12 +28,12 @@ a {
     padding: 15px;
     text-align: center;
     text-decoration: none;
-    transition: all 0.5s ease;
+    transition: 0.5s ease;
 }
 
 a:hover {
     background-color: var(--vermelho);
-    transition: all 0.5s ease;
+    transition: 0.5s ease;
 }
 
 ::-webkit-scrollbar {

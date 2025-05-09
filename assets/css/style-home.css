@@ -16,7 +16,7 @@
 
 /* Versão desktop */
 body {
-    background: url('../imgs/fundo.jpg') no-repeat top center;
+    background: url('../imgs/fundo-madeira.jpg') no-repeat top center;
     background-attachment: fixed;
     background-color: var(--preto);
     background-size: cover;
@@ -62,7 +62,7 @@ li {
 
 section#redes-sociais img {
     border-radius: 50%;
-    box-shadow: 3px 3px 6px var(--preto);
+    box-shadow: 5px 5px 8px var(--preto);
     box-sizing: border-box;
     height: 50px;
     margin: 20px;
@@ -70,7 +70,6 @@ section#redes-sociais img {
 }
 
 section#redes-sociais img:hover {
-    border: 2px solid var(--branco);
     transform: translate(2px, 2px);
     transition: 0.2s ease;
 }

@@ -73,25 +73,3 @@
         transform: translate(2px, 2px);
         transition: 0.2s ease;
     }
-
-    footer {
-        background-color: var(--branco);
-        color: var(--cinza);
-        font-family: var(--fonte-padrao);
-        font-weight: bold;
-        letter-spacing: 0.8px;
-        padding: 4px;
-        text-align: center;
-        transition: 0.4s ease;
-    }
-
-    footer a {
-        color: var(--cinza);
-        text-decoration: none;
-        transition: 1.5s ease;
-    }
-
-    footer a:hover {
-        color: var(--preto);
-        transition: 1.5s ease;
-    }

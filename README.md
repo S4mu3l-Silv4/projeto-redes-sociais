@@ -1,6 +1,6 @@
 # Projeto redes sociais:
 
-  Este projeto foi desenvolvido como um aprimoramento pessoal, objetivando praticar e demonstrar as minhas habilidades em HTML e CSS.
+  Este projeto foi desenvolvido como um aprimoramento pessoal, objetivando praticar e demonstrar as minhas habilidades em front-end.
   <br>
   <br>
 ## Site no ar:

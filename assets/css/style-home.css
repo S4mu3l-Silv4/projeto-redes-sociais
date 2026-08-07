@@ -37,11 +37,26 @@
         left: 50%;
         position: absolute;
         top: 50%;
-        transform: translate(-20%, -50%);
+        transform: translate(-50%, -50%);
         transition: 0.4s ease;
         width: 239px;
     }
 
+/* Versão mobile */
+    @media screen and (max-width: 768px) {
+        section#celular {
+            background: url('../imgs/celular.png') no-repeat;
+            height: 482px;
+            left: 50%;
+            position: absolute;
+            top: 50%;
+            transform: translate(-30%, -50%);
+            transition: 0.4s ease;
+            width: 239px;
+        }
+    }
+
+/* Versão desktop */
     iframe#tela-celular {
         height: 365px;
         left: 17px;

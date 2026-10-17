@@ -1,4 +1,4 @@
-# Projeto redes sociais:
+# Projeto Redes Sociais:
 
   Este projeto foi desenvolvido como um aprimoramento pessoal, objetivando praticar e demonstrar as minhas habilidades na área Front-End.
   <br>
